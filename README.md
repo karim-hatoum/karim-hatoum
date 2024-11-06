@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">I like C/C++ and will be making projects with them. I want to challenge myself to not use any libraries at all besides SDL. My first project will be a neural network with the C programming language to get me kickstarted on this journey of mine. I will be making more projects in the future and maybe approach some other languages like Rust.Oh and, I also learned web develepment but after some time I realized that it's not really my thing so here I am XD.</h3>
+<h3 align="center">I like C\C++ and will be making projects with them. My first project will be a neural network with the C programming language to get me kickstarted on this journey of mine. I will be making more projects in the future and maybe approach some other languages like Rust. Oh and, I also learned web develepment but after some time I realized that it's not really my thing so here I am XD.</h3>
 
 - 🔭 I’m currently working on [Snake AI](https://github.com/karim-hatoum/Snake-AI)
 
